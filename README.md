@@ -5,10 +5,8 @@ Malaria is a life-threatening disease caused by parasites that are transmitted t
 
 <h1>Raw Images </h1>
 
-![CNN](https://cdn-images-1.medium.com/max/600/1*JHMn1LIuXENsnJHkEf7rBA.png)
-Paratisited
-![CNN](https://cdn-images-1.medium.com/max/600/1*HtQlLKDAagEpOtunKFwwGw.png)
-Uninfected
+![CNN](https://cdn-images-1.medium.com/max/600/1*JHMn1LIuXENsnJHkEf7rBA.png)<p>Paratisited</p>
+![CNN](https://cdn-images-1.medium.com/max/600/1*HtQlLKDAagEpOtunKFwwGw.png)<p>Uninfected</p>
 
 # Cell image pre-processing and compilation of dataset for deep learning
 The images used in this work were whole slide images provided in the PEIR-VM repository built by the University of Alabama in Birmingham. The original whole slide image data contain significant amount of redundant information. In order to achieve good classification accuracy, image segmentation and de-noising are needed to extract only blood cells and remove those redundant image pixels simultaneously. Several effective image processing techniques were used to accurately segment tiles into individual cells.
