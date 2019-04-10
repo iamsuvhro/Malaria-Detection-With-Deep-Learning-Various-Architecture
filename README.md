@@ -1,4 +1,8 @@
 # Malaria-Detection-using-CNN-Deep-Learning-Apply-Various Architecture
+
+[![Status](https://img.shields.io/badge/status-maintained-brightgreen.svg?style=for-the-badge)]()
+[![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)]()
+
 In this tutorial, we will apply a bunch of various Neural Network Architectures on the Malaria dataset and see how each of them behaves with respect to one another.<br>
 <h1>Malaria Dataset&nbsp;:</h1>
 <img src="./images/data.png">
