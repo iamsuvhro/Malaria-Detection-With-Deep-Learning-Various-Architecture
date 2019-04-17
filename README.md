@@ -29,8 +29,9 @@ Most image tiles may easily be visualized as having no malaria-infected cells, s
 <h1>Visualization of Training Loss and test loss</h1>
 <img src="./images/download.png">
 <br>
-**Reference**
+<h1>Reference</h1>
 <a href="github.com/saugatapaul1010">Saugata Paul Blog</a>
+<br>
 <h1>Theory & Blog </h1>
 <a href="https://medium.com/@suvhradip/image-analysis-for-malaria-detection-using-convolutional-neural-network-c1ce9f62f446
 "><p>Click this link !</p></a>
